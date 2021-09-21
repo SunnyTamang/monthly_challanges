@@ -18,6 +18,8 @@ monthly_challenges = {
 # Create your views here.
 
 def monthly_challenge_by_number(request, month):
+    forward_month = monthly_challenges.keys()
+    
     return HttpResponse(month)
 
 def monthly_challenge(request, month):
