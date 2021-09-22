@@ -17,7 +17,8 @@ monthly_challenges = {
     "september" : "Learn HLD and LLD everyday for every project worked on",
     "october" : "Learn the deployment process and CICD pipeline everyday in all the cloud platform",
     "november" : "Prepare for interviews everyday revising everything",
-    "december" : "Sit in an interview everyday and get a good job as Data Scientist"
+    "december" : None
+    # "december" : "Sit in an interview everyday and get a good job as Data Scientist"
 }
 # Create your views here.
 
